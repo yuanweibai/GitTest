@@ -1,3 +1,6 @@
 iii
+<<<<<<< HEAD
 kkfjalkj`
+=======
+>>>>>>> 0c452cd2b13b03d56e6a856deb1fd4091a29d993
 jjjjjj
